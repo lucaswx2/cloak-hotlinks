@@ -1,0 +1,2 @@
+/default,http://google.com.br/
+/checkout,https://hotmart.com/
